@@ -1,3 +1,18 @@
 {
-	"h1":"test"
+	"h1":"LUIS PACHECO",
+	"email": "lept.fl.us@gmail.com",
+	"bio": "Curious by nature, problem solver by trade. An individual who is driven by technology and is continuously looking to innovate and progress. Someone who strives for efficiency, zero technical debt, and drives projects across the finish line.",
+	"keySkills": [
+		{"frontend": "HTML, CSS, Javascript, npm, yarn, Webpack, ReactJs, JSX, Axios, Jest, RTL, JSON, Ajax, RESTful APIs, Bootstrap, Less, JQuery, Data Visualization"},
+		{"backend": "NodeJs, expressJS, PHP, Laravel, ZF, MVC, MySQL, Git."},
+		{"other": "Technical leader and mentor, code reviews, Optimizely, UI/UX, POCs."}
+	],
+	"links": [
+		{"text": "github.com/lept-github", "href": "https://github.com/lept-github"},
+		{"text": "npmjs.com/package/fleck-js", "href": "https://www.npmjs.com/package/fleck-js"},
+		{"text": "npmjs.com/package/hlpr", "href": "https://www.npmjs.com/package/hlpr"},
+		{"text": "linkedin.com/in/lept", "href": "https://www.linkedin.com/in/lept/"}
+	],
+	"professionalExperience": "",
+	"education": ""
 }
