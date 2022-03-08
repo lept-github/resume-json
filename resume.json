@@ -2,7 +2,7 @@
 	"h1":"LUIS PACHECO",
 	"email": "lept.fl.us@gmail.com",
 	"bio": "Curious by nature, problem solver by trade. An individual who is driven by technology and is continuously looking to innovate and progress. Someone who strives for efficiency, zero technical debt, and drives projects across the finish line.",
-	"keySkills": [
+	"skills": [
 		{"frontend": "HTML, CSS, Javascript, npm, yarn, Webpack, ReactJs, JSX, Axios, Jest, RTL, JSON, Ajax, RESTful APIs, Bootstrap, Less, JQuery, Data Visualization"},
 		{"backend": "NodeJs, expressJS, PHP, Laravel, ZF, MVC, MySQL, Git."},
 		{"other": "Technical leader and mentor, code reviews, Optimizely, UI/UX, POCs."}
@@ -13,6 +13,96 @@
 		{"text": "npmjs.com/package/hlpr", "href": "https://www.npmjs.com/package/hlpr"},
 		{"text": "linkedin.com/in/lept", "href": "https://www.linkedin.com/in/lept/"}
 	],
-	"professionalExperience": "",
-	"education": ""
+	"experience": [
+		{
+			"companyName": "BLUEHOST",
+			"jobTitle": "Sr. Software Engineer II",
+			"dates": "Feb/2021 - Present",
+			"companyDesc": "Bluehost is a leading web hosting solutions company. Since its founding in 2003 it has continually innovated new ways to empower people to fully harness the web. Based in Utah, Bluehost provides tools to millions of users throughout the world so anyone, novice or pro, can get on the web and thrive.",
+			"responsibilities": [
+				"Member of the frontend leadership team, responsible for setting code standards, code reviews, conducting technical interviews, identifying areas of improvement in the code, exploring latest technology trends and libraries, as well as coding POCs.",
+				"Served as mentor to junior engineers and new hires.",
+				"Architected, led development, and oversaw launch of frontend initiative of new CDN(Cloudflare) products. After the initial launch, maintained and improved performance of the product.",
+				"Managed team’s backlog and technical debt, making sure to refine and slate tech-enablement stories every sprint, prioritizing based on business and team goals.",
+				"Development of new features for SSL and Email products, where React, React-Router, React-Redux, Axios, were some of the basic libraries and packages used. As well as creation and maintenance of unit tests written in Jest and React-Testing-Library.",
+				"Worked closely with PO and UI/UX Designers to implement new features and measure their impact.",
+				"Coordinated across teams to ensure different initiatives and efforts would not produce duplicate components and endpoints, especially when teams were working on related features or needed similar React components.",
+				"Provided technical guidance in software design and development activities. Key contributor to architecting solutions for multiple products throughout the organization."
+			]
+		},
+		{
+			"companyName": "CALDWELL TRUST",
+			"jobTitle": "Sr. Software Engineer",
+			"dates": "May/2017 - Feb/2021",
+			"companyDesc": "Caldwell Trust Company was founded in November of 1993 to provide personal, traditional and independent trust services. Since that time, the business has continued to grow through individuals who are attracted to a trust service provider that sincerely believes in giving clients what it promises, including quality investment management and estate planning.",
+			"responsibilities": [
+				"Responsible for architecture, development and launch of the primary client facing portal. SPA application built on React, React-Router and Axios, as well as a number of packages and libraries to render out the more complex data visualization components. Bootstrap was used for its grid system to create a responsive layout, and Less was used for all of the CSS customization.",
+				"Conducted technical interviews, new hire onboarding and training.",
+				"Created technical interview questionnaire and code challenge exercise, where candidates were given the scaffold for a simple React application, which was incomplete, then candidates were asked to write the code necessary to make it functional.",
+				"Developed training materials, onboarding checklist and documentation necessary to quickly onboard new hires, reducing the process from a couple of weeks to a couple of days.",
+				"Established and wrote code standards document, and implemented ESLint to analyze the code in the editor and catch issues before they got checked into the source control.",
+				"Developed and implemented Selenium scripts to automate basic test scenarios and validations."
+			]
+		},
+		{
+			"companyName": "HEALTH PLAN SERVICES",
+			"jobTitle": "Sr. Software Engineer",
+			"dates": "Aug/2014 - May/2017",
+			"companyDesc": "HealthPlan Services is the nation’s largest independent provider of sales, benefits administration, retention and technology solutions to fortune 500 companies in the insurance and risk management industries, such as Aetna, AIG, Humana and Cigna to name a few. Their solution suite combines industry’s best practices and sophisticated automation to effectively manage all aspects of clients’ operations. Administering over 5 million members – 2.4 million on exchange – and over $12.7 billion in premium management.",
+			"responsibilities": [
+				"Conducted preliminary review of requirements, as well as, provided effort and time estimates for project requirements. Reviewed UI/UX design, and testing plan before project kick off.",
+				"Conducted technical interviews, new hire onboarding and training. Developed training materials and onboarding checklist.",
+				"Responsible for development of new features:",
+				"Manual Adjustments page, HTML and CSS responsive page that allows CSR to make adjustments to the billing history of the members, taking a single page application(SPA) approach, all the user interactions are handled by Jquery and AJAX without refreshing the browser window. PHP and XML were used to consume SOAP services provided by the finance department to perform all the DB transactions.",
+				"Payment Search, enhancement to the existing search page. Here I used JQuery's DataTables plugin to create a searchable and sortable table that contains all the payments made by the queried member. The backend was written in PHP, which queries directly the DB2 database for the payment information.",
+				"Split Payment page, another HTML and CSS responsive page which allows CSR to redirect payments after they enter the system. Again taking a SPA approach, all the user interactions are handled by Jquery and AJAX without the need to refresh the browser. The backend was written in PHP and XML to consume SOAP services provided by the finance department to perform all the DB transactions.",
+				"Provided support for existing products and functionality, as well as coded fixes for issues found in the production or development environments.",
+				"Implementation of selenium scripts to automate most of the manual validation after deploying code to the production system."
+			]
+		},
+		{
+			"companyName": "BMV CORP",
+			"jobTitle": "Software Engineer",
+			"dates": "Feb/2014 - Aug/2014",
+			"companyDesc": "BMV Corp, provides document processing and consulting assistance to those who wish to consolidate their federal student loans. These services result in affordable and manageable monthly loan repayments for clients.",
+			"responsibilities": [
+				"Responsible for development and maintenance of the web-based student loan system or SLS:",
+				"Created custom reports tool with advanced HTML, CSS, Jquery and Morris.js that allowed the management team to visualize the profitability of radio ads. The PHP, ZF1 and MySQL backend monitored the influx of new calls and conversion rate after each radio ad campaign.",
+				"Created user groups management system within SLS, this HTML, CSS and Jquery page allowed the addition and modification of user privileges and access within the SLS system based on a preset pool of user groups. PHP, ZF1 and MySQL served as the backend platform.",
+				"Provided general maintenance and bug fixes for the Leads Management System(LMS)."
+			]
+		},
+		{
+			"companyName": "MORRIS 4x4 CENTER",
+			"jobTitle": "Web Developer",
+			"dates": "Nov/2010 - Feb/2014",
+			"companyDesc": "Established in 1990, Morris 4×4 Center has worked to provide Jeep enthusiasts and 4×4 lovers with quality Jeep parts and accessories, it leads the way with their knowledge and experience in the Jeep world. Their e-commerce web site includes over 40,000 Jeep parts, accessories and services for Jeep models ranging in years from 1941 to present.",
+			"responsibilities": [
+				"Responsible for developing the Softtop advisor, useful step-by-step resource for softtop buyers. HTML and CSS cards layout, PHP and MySQL will determine the right softtop for your jeep.",
+				"Liftkit advisor, just like the softtop advisor will guide and help buyers. Again, HTML and CSS cards layout, PHP and MySQL to determine the right liftkit for the jeep selected.",
+				"Development of visually appealing HTML and CSS landing pages for specials and promotions, the Christmas blowout sale and the gecko green Jeep giveaway among the most visited."
+			]
+		},
+		{
+			"companyName": "TURISMO MASO",
+			"jobTitle": "Web Developer",
+			"dates": "2002 - 2007",
+			"companyDesc": "Turismo Maso is the largest travel agency in Venezuela and partner of BCD Travel, which is one of the largest corporate travel services provider in the world. Thanks to this partnership Turismo Maso is able to provide 24/7 global assistance to its clients along with the most competitive hotel and air rates.",
+			"responsibilities": [
+				"Development and implementation of the company's intranet.",
+				"Maintaining of the existing administrative web based softwares as well as incorporating new features.",
+				"Overall maintenance, update and administration of corporate websites."
+			]
+		}
+	],
+	"education": [
+		{
+			"title": "INTERNET RETAILERS & WEB DEVELOPERS",
+			"desc": "Orlando, FL - 2012 Training in the latest trends and standards of e-commerce, internet marketing and web design."
+		},
+		{
+			"title": "BACHELOR DEGREE IN COMPUTER SCIENCE",
+			"desc": "IUTIRLA Caracas, Venezuela - 2006"
+		}
+	]
 }
