@@ -1,7 +1,7 @@
 {
 	"h1":"LUIS PACHECO",
 	"email": "lept.fl.us@gmail.com",
-	"bio": "Curious and problem solver by nature. An individual who is driven by technology and is continuously looking to innovate and progress. Someone who strives for efficiency, zero technical debt, and drives projects across the finish line.",
+	"bio": "Curious by nature, problem solver at heart. An individual who is driven by technology and is continuously looking to innovate and evolve. Someone who strives for efficiency, zero technical debt, and drives projects across the finish line.",
 	"skills": [
 		{"frontend": "HTML, CSS, Javascript, npm, yarn, Webpack, ReactJs, JSX, Axios, Jest, RTL, JSON, Ajax, RESTful APIs, Bootstrap, Less, JQuery, Data Visualization"},
 		{"backend": "NodeJs, expressJS, PHP, Laravel, ZF, MVC, MySQL, Git."},
