@@ -8,9 +8,8 @@
 		{"heading": "Other", "desc": "Technical leader and mentor, code reviews, Optimizely, UI/UX, POCs, Google Analytics, Ubuntu, MacOS, Windows."}
 	],
 	"links": [
-		{"text": "github.com/lept-github", "href": "https://github.com/lept-github"},
-		{"text": "npmjs.com/package/fleck-js", "href": "https://www.npmjs.com/package/fleck-js"},
 		{"text": "npmjs.com/package/hlpr", "href": "https://www.npmjs.com/package/hlpr"},
+		{"text": "github.com/lept-github", "href": "https://github.com/lept-github"},
 		{"text": "linkedin.com/in/lept", "href": "https://www.linkedin.com/in/lept/"}
 	],
 	"experience": [
